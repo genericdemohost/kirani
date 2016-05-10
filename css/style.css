@@ -1,0 +1,62 @@
+/*components to index page*/
+
+body{
+    background-color:grey;
+}
+
+#centerbox {
+    margin:auto;
+    background-color:pink;
+    font-size:30px;
+    
+}
+
+#upperrightbox {
+    background-color:red;
+    font-size:12px;
+    margin-left:800px;
+
+    
+}
+.k2{
+    text-align: center;
+}
+
+
+#lowerrightbox {
+    background-color:green;
+    margin:75px -37px ;
+
+}
+
+#lowerleftbox {
+    background-color:yellow;
+    margin-left:-745px;
+    margin-top:-215px;
+}
+
+/*@media (min-width:768px) and (max-width:990px){
+    .jumbotron .app-btn{
+        width:30%; }
+}*/
+
+.jumbotron{
+    background-color:#d966ff;
+    color:white;
+    text-align: center;
+    height:200px;
+}
+
+.k1{
+    font-size:12px;
+}
+.col-xs-4{ 
+    border-radius:40px;
+    border: 2px solid #73AD21;
+    height:250px;
+    width:250px;
+}
+
+/* components to history page*/
+
+/*components to training page*/
